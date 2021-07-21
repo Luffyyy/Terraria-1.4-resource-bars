@@ -1,0 +1,3 @@
+displayName = Health and Mana Bars from 1.4
+author = Luffy
+version = 1.0
